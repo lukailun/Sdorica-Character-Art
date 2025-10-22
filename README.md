@@ -28,6 +28,19 @@
 * [天命之公主 安洁莉亚 ‧ 卡洛斯](./art/Angelia_SP.png)
 * [盛夏果实之女王 安洁莉亚 ‧ 卡洛斯](./art/Angelia_MZ.png)
 
+## 奥斯塔
+* [冷面智匠 奥斯塔 ‧ 克诺维斯](./art/Aosta_R.png)
+* [城府机心 奥斯塔 ‧ 克诺维斯](./art/Aosta_SR.png)
+* [深谋远虑 奥斯塔 ‧ 克诺维斯](./art/Aosta_SSR.png)
+* [诛心深算 奥斯塔 ‧ 克诺维斯](./art/Aosta_SB.png)
+
+## 芈芈
+* [小本摊贩 芈芈](./art/Baa_Baa_R.png)
+* [中盘行商 芈芈](./art/Baa_Baa_SR.png)
+* [商会巨子 芈芈](./art/Baa_Baa_SSR.png)
+* [岁节巨商 芈芈](./art/Baa_Baa_CS.png)
+* [牧羊旅人 芈芈](./art/Baa_Baa_SP.png)
+
 ## 古鲁瓦德
 * [穴居兽 古鲁瓦德](./art/Golemwalt_R.png)
 * [角斗兽 古鲁瓦德](./art/Golemwalt_R.png)
