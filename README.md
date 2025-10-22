@@ -91,6 +91,30 @@
 * [迷彩先锋 刃](./art/Dagger_SB.png)
 * [淬铁熊兵 刃](./art/Dagger_SP.png)
 
+## 荡山
+* [运输新人 荡山](./art/Dan_Shan_R.png)
+* [走私专家 荡山](./art/Dan_Shan_SR.png)
+* [飞车团团长 荡山](./art/Dan_Shan_SSR.png)
+* [争驰迅骑 荡山](./art/Dan_Shan_CS.png)
+* [铁拳绅士 荡山](./art/Dan_Shan_SP.png)
+
+## 迪默
+* [沉默之声 Deemo](./art/Deemo_SSR.png)
+
+## 戴菲斯
+* [蛇神仆从 戴菲斯‧路易斯‧马可](./art/Devious_R.png)
+* [沙域圣职者 戴菲斯‧路易斯‧马可](./art/Devious_SR.png)
+* [常暗之大神官 戴菲斯‧路易斯‧马可](./art/Devious_SSR.png)
+
+## 黛安娜
+* [贵族千金 黛安娜‧胡安‧戈麦斯](./art/Diana_R.png)
+* [王位候选人 黛安娜‧胡安‧戈麦斯](./art/Diana_SR.png)
+* [沙国之女王 黛安娜‧胡安‧戈麦斯](./art/Diana_SSR.png)
+* [冬原之女王 黛安娜‧胡安‧戈麦斯](./art/Diana_SB.png)
+* [庆典贵女 黛安娜‧胡安‧戈麦斯](./art/Diana_CS.png)
+* [幽冥之女王 黛安娜‧胡安‧戈麦斯](./art/Diana_SP.png)
+* [荣光经理人 黛安娜‧胡安‧戈麦斯](./art/Diana_MZ.png)
+
 ## 古鲁瓦德
 * [穴居兽 古鲁瓦德](./art/Golemwalt_R.png)
 * [角斗兽 古鲁瓦德](./art/Golemwalt_R.png)
