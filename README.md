@@ -41,6 +41,26 @@
 * [岁节巨商 芈芈](./art/Baa_Baa_CS.png)
 * [牧羊旅人 芈芈](./art/Baa_Baa_SP.png)
 
+## 芭芭拉
+* [幻艳风姿 芭芭拉 ‧ 巴尔札克](./art/Barbara_SP.png)
+
+## 贝雅塔
+* [离家孤雏 贝雅塔](./art/Beyata_R.png)
+* [幽笼丽人 贝雅塔](./art/Beyata_SR.png)
+* [仙乡红牌 贝雅塔](./art/Beyata_SSR.png)
+* [恶戏佳丽 贝雅塔](./art/Beyata_CS.png)
+* [嫁羽朱颜 贝雅塔](./art/Beyata_SP.png)
+
+## 夏尔
+* [潜心之学者 夏尔 ‧ 瑟雷斯](./art/Charle_R.png)
+* [聪慧之导师 夏尔 ‧ 瑟雷斯](./art/Charle_SR.png)
+* [睿智之院长 夏尔 ‧ 瑟雷斯](./art/Charle_SSR.png)
+* [渊博之权威 夏尔 ‧ 瑟雷斯](./art/Charle_SB.png)
+* [森罗旅人 夏尔 ‧ 瑟雷斯](./art/Charle_SP.png)
+
+## Cherry
+* [水晶之声 Cherry](./art/Cherry_SSR.png)
+
 ## 古鲁瓦德
 * [穴居兽 古鲁瓦德](./art/Golemwalt_R.png)
 * [角斗兽 古鲁瓦德](./art/Golemwalt_R.png)
